@@ -1,0 +1,8 @@
+C:\Users\HOD\source\repos\evenodd_number\evenodd_number\bin\Debug\evenodd_number.exe.config
+C:\Users\HOD\source\repos\evenodd_number\evenodd_number\bin\Debug\evenodd_number.exe
+C:\Users\HOD\source\repos\evenodd_number\evenodd_number\bin\Debug\evenodd_number.pdb
+C:\Users\HOD\source\repos\evenodd_number\evenodd_number\obj\Debug\evenodd_number.csproj.AssemblyReference.cache
+C:\Users\HOD\source\repos\evenodd_number\evenodd_number\obj\Debug\evenodd_number.csproj.CoreCompileInputs.cache
+C:\Users\HOD\source\repos\evenodd_number\evenodd_number\obj\Debug\evenodd_number.exe
+C:\Users\HOD\source\repos\evenodd_number\evenodd_number\obj\Debug\evenodd_number.pdb
+C:\Users\HOD\source\repos\evenodd_number\evenodd_number\obj\Debug\evenodd_number.exe.config
