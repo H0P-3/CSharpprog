@@ -1,0 +1,8 @@
+C:\Users\HOD\source\repos\weiheight\weiheight\obj\Debug\weiheight.csproj.AssemblyReference.cache
+C:\Users\HOD\source\repos\weiheight\weiheight\obj\Debug\weiheight.csproj.CoreCompileInputs.cache
+C:\Users\HOD\source\repos\weiheight\weiheight\bin\Debug\weiheight.exe.config
+C:\Users\HOD\source\repos\weiheight\weiheight\bin\Debug\weiheight.exe
+C:\Users\HOD\source\repos\weiheight\weiheight\bin\Debug\weiheight.pdb
+C:\Users\HOD\source\repos\weiheight\weiheight\obj\Debug\weiheight.exe
+C:\Users\HOD\source\repos\weiheight\weiheight\obj\Debug\weiheight.pdb
+C:\Users\HOD\source\repos\weiheight\weiheight\obj\Debug\weiheight.exe.config
